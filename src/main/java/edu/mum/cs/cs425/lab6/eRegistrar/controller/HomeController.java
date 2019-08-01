@@ -1,4 +1,4 @@
-package edu.mum.cs.cs425.lab6.eRegistrar.controller;
+package edu.mum.cs.cs425.demos.eRegistra.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
